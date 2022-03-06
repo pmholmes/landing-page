@@ -122,3 +122,51 @@ body {
     margin-top: -2em;
     margin-right: 5em;
 }
+
+.sign-up {
+    height: 14em;
+    color: #F9FAF8;
+}
+
+.call-to-action {
+    margin-top: 4em;
+    margin-left: 31em;
+    border-radius: 14px;
+    background: #3882F6;
+    width: 60em;
+    height: 10em;
+}
+
+.button-2 {
+    border-radius: 8px;
+    border-color: white;
+    background-color: #3882F6;
+    color: white;
+    font-size: 21px;
+    padding: 6px 24px 6px 24px;
+    box-shadow: none;
+}
+
+.call-to-action .left {
+    padding: 1.5em 4em 2em 4em;
+    display: inline-block;
+}
+
+.call-to-action .right {
+    margin-left: 5em;
+    margin-top: 3.5em;
+    position: absolute;
+    display: inline-block;
+}
+
+.footer {
+    height: 8em;
+    background: #1F2937;
+}
+
+.footer p {
+    padding-top: 2.5em;
+    text-align: center;
+    color: #F9FAF8;
+    font-size: 19px;
+}
